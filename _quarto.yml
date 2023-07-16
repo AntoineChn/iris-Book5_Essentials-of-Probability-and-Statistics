@@ -1,0 +1,42 @@
+project:
+  type: book
+
+book:
+  title: "Essentials of Probability and Statistics"
+  author: "AntoineChn"
+  date: "7/16/2023"
+  search: true
+  page-footer: 
+    left: "Copyright 2023, Antoine"
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - summary.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+crossref:
+  # appendix-title: "附录"
+  # appendix-delim: ":"
+  
+  def-title: "Def"
+  thm-title: "Thm"
+  exr-title: "Exr"
+  exm-title: "Exm"
+
+format:
+  html:
+    # embed-resources: true
+    self-contained-math: true
+    cover-image: cover.png
+    toc-depth: 3
+    # theme: cosmo
+    theme:
+      light: cosmo
+      dark: [cosmo, theme-dark.scss]
+    css: style.css
+    code-link: true
+    code-copy: true
+    code-line-numbers: true
+    # mainfont: "LXGW WenKai"
