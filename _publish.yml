@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: 0505bd88-3400-41cd-9055-e9ca7da6b6cf
+      url: 'https://alter-ego.quarto.pub/iris-book5_essentials-of-probability-and-statistics'
