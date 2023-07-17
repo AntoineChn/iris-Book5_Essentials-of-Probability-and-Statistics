@@ -2,7 +2,7 @@ project:
   type: book
 
 book:
-  title: "Essentials of Probability and Statistics"
+  title: "《统计至简》笔记"
   author: "AntoineChn"
   date: "7/16/2023"
   search: true
@@ -10,9 +10,51 @@ book:
     left: "Copyright 2023, Antoine"
   chapters:
     - index.qmd
-    - intro.qmd
+    - courses.qmd
+    # - intro.qmd
+    - part: 统计
+      chapters:
+        - Book5_Ch01_本书概率统计全景__统计至简__鸢尾花书__从加减乘除到机器学习.qmd
+        - Book5_Ch02_统计描述__统计至简__鸢尾花书__从加减乘除到机器学习.qmd
+    - part: 概率
+      chapters:
+        - Book5_Ch03_古典概型__统计至简__鸢尾花书__从加减乘除到机器学习.qmd
+        - Book5_Ch04_离散随机变量__统计至简__鸢尾花书__从加减乘除到机器学习.qmd
+        - Book5_Ch05_离散分布__统计至简__鸢尾花书__从加减乘除到机器学习.qmd
+        - Book5_Ch06_连续随机变量__统计至简__鸢尾花书__从加减乘除到机器学习.qmd
+        - Book5_Ch07_连续分布__统计至简__鸢尾花书__从加减乘除到机器学习.qmd
+        - Book5_Ch08_条件概率__统计至简__鸢尾花书__从加减乘除到机器学习.qmd
+    # - part: 高斯
+    #   chapters:
+    #     - Book5_Ch09_一元高斯分布__统计至简__鸢尾花书__从加减乘除到机器学习.qmd
+    #     - Book5_Ch10_二元高斯分布__统计至简__鸢尾花书__从加减乘除到机器学习.qmd
+    #     - Book5_Ch11_多元高斯分布__统计至简__鸢尾花书__从加减乘除到机器学习.qmd
+    #     - Book5_Ch12_条件高斯分布__统计至简__鸢尾花书__从加减乘除到机器学习.qmd
+    #     - Book5_Ch13_协方差矩阵__统计至简__鸢尾花书__从加减乘除到机器学习.qmd
+    # - part: 随机
+    #   chapters:
+    #     - Book5_Ch14_再谈随机变量__统计至简__鸢尾花书__从加减乘除到机器学习.qmd
+    #     - Book5_Ch15_蒙特卡洛模拟__统计至简__鸢尾花书__从加减乘除到机器学习.qmd
+    # - part: 频率派
+    #   chapters:
+    #     - Book5_Ch16_频率派统计推断__统计至简__鸢尾花书__从加减乘除到机器学习.qmd
+    #     - Book5_Ch17_概率密度估计__统计至简__鸢尾花书__从加减乘除到机器学习.qmd
+    # - part: 贝叶斯派
+    #   chapters:
+    #     - Book5_Ch18_贝叶斯分类__统计至简__鸢尾花书__从加减乘除到机器学习.qmd
+    #     - Book5_Ch19_深入贝叶斯分类__统计至简__鸢尾花书__从加减乘除到机器学习.qmd
+    #     - Book5_Ch20_贝叶斯推断入门__统计至简__鸢尾花书__从加减乘除到机器学习.qmd
+    #     - Book5_Ch21_深入贝叶斯推断__统计至简__鸢尾花书__从加减乘除到机器学习.qmd
+    #     - Book5_Ch22_马尔科夫链蒙特卡罗模拟__统计至简__鸢尾花书__从加减乘除到机器学习.qmd
+    # - part: 椭圆
+    #   chapters:
+    #     - Book5_Ch23_马氏距离__统计至简__鸢尾花书__从加减乘除到机器学习.qmd
+    #     - Book5_Ch24_线性回归__统计至简__鸢尾花书__从加减乘除到机器学习.qmd
+    #     - Book5_Ch25_主成分分析__统计至简__鸢尾花书__从加减乘除到机器学习.qmd
     - summary.qmd
     - references.qmd
+  appendices:
+    - setup_env.qmd
 
 bibliography: references.bib
 

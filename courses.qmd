@@ -1,0 +1,89 @@
+---
+tbl-colwidths: [50,50]
+---
+
+# 在线课程 {.unnumbered}
+
+## 课程更新
+
+-   《统计至简》的作者在B站更新本书的微课程. [Bilibili 视频列表 - 《统计至简》微课程](https://space.bilibili.com/513194466/channel/seriesdetail?sid=3445008)
+
+## 讲师
+
+生姜DrGinger (本书作者)
+
+-   💼 金融
+-   🎓 McMaster University 博士
+
+## 摘要
+
+-   PDF书稿、代码: <https://github.com/Visualize-ML>
+-   微课视频: <https://space.bilibili.com/513194466>
+-   信息发布: <https://www.zhihu.com/people/jamestong-xue>
+-   专属邮箱: [jiang.visualize.ml\@gmail.com](mailto:jiang.visualize.ml@gmail.com)
+
+## **课程安排**
+
+| 章节                       | 视频链接                                                                                                                                         |
+|----------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
+| Chapter 0 使用本书 (22:47) | [![Chapter 13 协方差矩阵 (25:20)](./img/Chapter%200%20使用本书.jpg){width="160"}](https://www.bilibili.com/video/BV1e8411U7Q6/){target="_blank"} |
+
+### Part 1 统计
+
+|                                |                                                                                                                                                      |
+|--------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Chapter 1 概率统计图景 (23:41) | [![Chapter 13 协方差矩阵 (25:20)](./img/Chapter%201%20概率统计图景.jpg){width="160"}](https://www.bilibili.com/video/BV1Tx4y1Z7hR/){target="_blank"} |
+| Chapter 2 统计描述 (30:44)     | [![Chapter 13 协方差矩阵 (25:20)](./img/Chapter%202%20统计描述.jpg){width="160"}](https://www.bilibili.com/video/BV11h4y1j7su/){target="_blank"}     |
+
+### Part 2 概率
+
+|                                |                                                                                                                                                      |
+|--------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Chapter 3 古典概率模型 (40:12) | [![Chapter 13 协方差矩阵 (25:20)](./img/Chapter%203%20古典概率模型.jpg){width="160"}](https://www.bilibili.com/video/BV1KF411Q7uy/){target="_blank"} |
+| Chapter 4 离散随机变量 (44:32) | [![Chapter 13 协方差矩阵 (25:20)](./img/Chapter%204%20离散随机变量.jpg){width="160"}](https://www.bilibili.com/video/BV1c14y197GA/){target="_blank"} |
+| Chapter 5 离散分布 (09:10)     | [![Chapter 13 协方差矩阵 (25:20)](./img/Chapter%205%20离散分布.jpg){width="160"}](https://www.bilibili.com/video/BV1DX4y1a7Ky/){target="_blank"}     |
+| Chapter 6 连续随机变量 (16:38) | [![Chapter 13 协方差矩阵 (25:20)](./img/Chapter%206%20连续随机变量.jpg){width="160"}](https://www.bilibili.com/video/BV1DV411T77C/){target="_blank"} |
+| Chapter 7 连续分布 (14:04)     | [![Chapter 13 协方差矩阵 (25:20)](./img/Chapter%207%20连续分布.jpg){width="160"}](https://www.bilibili.com/video/BV1Mx4y1Z7Xs/){target="_blank"}     |
+
+### Part 3 高斯
+
+|                                 |                                                                                                                                                       |
+|---------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Chapter 8 条件概率 (20:12)      | [![Chapter 13 协方差矩阵 (25:20)](./img/Chapter%208%20条件概率.jpg){width="160"}](https://www.bilibili.com/video/BV12u4y1S75Q/){target="_blank"}      |
+| Chapter 9 一元高斯分布 (23:16)  | [![Chapter 13 协方差矩阵 (25:20)](./img/Chapter%209%20一元高斯分布.jpg){width="160"}](https://www.bilibili.com/video/BV1HF411Q7ZT/){target="_blank"}  |
+| Chapter 10 二元高斯分布 (23:33) | [![Chapter 13 协方差矩阵 (25:20)](./img/Chapter%2010%20二元高斯分布.jpg){width="160"}](https://www.bilibili.com/video/BV1dV4y1b7rx/){target="_blank"} |
+| Chapter 11 多元高斯分布 (23:27) | [![Chapter 13 协方差矩阵 (25:20)](./img/Chapter%2011%20多元高斯分布.jpg){width="160"}](https://www.bilibili.com/video/BV1wN411m7Ko/){target="_blank"} |
+| Chapter 12 条件高斯分布 (13:11) | [![Chapter 13 协方差矩阵 (25:20)](./img/Chapter%2012%20条件高斯分布.jpg){width="160"}](https://www.bilibili.com/video/BV18u4y1S7RJ/){target="_blank"} |
+
+### Part 4 随机
+
+|                                   |                                                                                                                                                         |
+|-----------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Chapter 13 协方差矩阵 (25:20)     | [![Chapter 13 协方差矩阵 (25:20)](./img/Chapter%2013%20协方差矩阵.jpg){width="160"}](https://www.bilibili.com/video/BV1gV4y187o5/){target="_blank"}     |
+| Chapter 14 随机变量的函数 (17:53) | [![Chapter 13 协方差矩阵 (25:20)](./img/Chapter%2014%20随机变量的函数.jpg){width="160"}](https://www.bilibili.com/video/BV1z14y1974U/){target="_blank"} |
+| Chapter 15 蒙特卡洛模拟 (13:22)   | [![Chapter 13 协方差矩阵 (25:20)](./img/Chapter%2015%20蒙特卡洛模拟.jpg){width="160"}](https://www.bilibili.com/video/BV1am4y1j7kt/){target="_blank"}   |
+
+### Part 5 频率派
+
+|                                   |                                                                                                                                                         |
+|-----------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Chapter 16 频率派统计推断 (23:43) | [![Chapter 13 协方差矩阵 (25:20)](./img/Chapter%2016%20频率派统计推断.jpg){width="160"}](https://www.bilibili.com/video/BV1sW4y1d7NV/){target="_blank"} |
+| Chapter 17 概率密度估计 (09:48)   | [![Chapter 13 协方差矩阵 (25:20)](./img/Chapter%2017%20概率密度估计.jpg){width="160"}](https://www.bilibili.com/video/BV1xu411L7f9/){target="_blank"}   |
+
+### Part 6 贝叶斯派
+
+|                                   |                                                                                                                                                         |
+|-----------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Chapter 18 贝叶斯分类 (25:33)     | [![Chapter 13 协方差矩阵 (25:20)](./img/Chapter%2018%20贝叶斯分类.jpg){width="160"}](https://www.bilibili.com/video/BV1Px4y1Z7V1/){target="_blank"}     |
+| Chapter 19 贝叶斯分类进阶 (14:31) | [![Chapter 13 协方差矩阵 (25:20)](./img/Chapter%2019%20贝叶斯分类进阶.jpg){width="160"}](https://www.bilibili.com/video/BV1ju411L7Ep/){target="_blank"} |
+| Chapter 20 贝叶斯推断入门 (55:16) | [![Chapter 13 协方差矩阵 (25:20)](./img/Chapter%2020%20贝叶斯推断入门.jpg){width="160"}](https://www.bilibili.com/video/BV1Kx4y1d7Ci/){target="_blank"} |
+| Chapter 21 贝叶斯推断进阶 (14:28) | [![Chapter 13 协方差矩阵 (25:20)](./img/Chapter%2021%20贝叶斯推断进阶.jpg){width="160"}](https://www.bilibili.com/video/BV1a14y197F6/){target="_blank"} |
+
+### Part 7 椭圆
+
+|                                       |                                                                                                                                                             |
+|---------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Chapter 22 马尔可夫链蒙特卡洛 (20:53) | [![Chapter 13 协方差矩阵 (25:20)](./img/Chapter%2022%20马尔可夫链蒙特卡洛.jpg){width="160"}](https://www.bilibili.com/video/BV1xX4y1Y7gt/){target="_blank"} |
+| Chapter 23 马氏距离 (31:50)           | [![Chapter 13 协方差矩阵 (25:20)](./img/Chapter%2023%20马氏距离.jpg){width="160"}](https://www.bilibili.com/video/BV1PM4y1s7LH/){target="_blank"}           |
+| Chapter 24 线性回归 (16:37)           | [![Chapter 13 协方差矩阵 (25:20)](./img/Chapter%2024%20线性回归.jpg){width="160"}](https://www.bilibili.com/video/BV1Nx4y1d7oM/){target="_blank"}           |
+| Chapter 25 主成分分析 (20:47)         | [![Chapter 25 主成分分析](./img/Chapter%2025%20主成分分析.jpg){width="160"}](https://www.bilibili.com/video/BV1ru4y1S7YB/){target="_blank"}                 |

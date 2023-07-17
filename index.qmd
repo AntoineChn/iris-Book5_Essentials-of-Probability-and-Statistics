@@ -1,5 +1,19 @@
 # Preface {.unnumbered}
 
-This is a Quarto book.
+我是 AntoineChn
 
-To learn more about Quarto books visit <https://quarto.org/docs/books>.
+本站包含我阅读《统计至简》 (Essentials of Probability and Statistics) 的部分笔记.
+
+## 《统计至简》的作者 
+
+生姜DrGinger
+
+-   💼 金融
+-   🎓 McMaster University 博士
+
+## 资源
+
+-   PDF书稿、代码: <https://github.com/Visualize-ML>
+-   微课视频: <https://space.bilibili.com/513194466>
+-   信息发布: <https://www.zhihu.com/people/jamestong-xue>
+-   专属邮箱: [jiang.visualize.ml\@gmail.com](mailto:jiang.visualize.ml@gmail.com)
